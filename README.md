@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Victor😄👋
 
 <!--
 **VictorManuelVillalta/VictorManuelVillalta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,14 +9,20 @@
        alt="snake" /></a>
 </div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning and Studing Programing.
+- 💡 I like to explore new technologies and develop software solutions and quick hacks.
+- ✔ Ask me about anything, I am happy to help.
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: 
+
+<summary>
+Languages and Tools🛠:
+</summary>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+<summary> Connect with me🤝: </summary>  
+
+Email : vvillalta488@gmail.com
