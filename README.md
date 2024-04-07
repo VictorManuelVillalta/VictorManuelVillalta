@@ -12,8 +12,7 @@
 - 🌱 I’m currently learning and Studing Programing.
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 - ✔ Ask me about anything, I am happy to help.
-- 📫 How to reach me: ...
-- ⚡ Fun fact: 
+- ⚡ Fun fact : Meet me @ midnight...
 
 <summary>
 Languages and Tools🛠:
